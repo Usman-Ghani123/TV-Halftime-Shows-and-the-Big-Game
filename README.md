@@ -12,4 +12,4 @@ The dataset used in this project was scraped and polished from Wikipedia. It is 
 
 
 
-![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot1.png) | ![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot2.png)
+![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot1.png) | ![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot2.png) |![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot3.png)
