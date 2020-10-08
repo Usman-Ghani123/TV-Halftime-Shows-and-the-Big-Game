@@ -16,9 +16,9 @@ This reporistory load, clean and visualize the data of super_bowls , the muscian
 
 ## Usage
 
-'''bash
-$ python data visualization.py
-'''
+```bash
+$ python data visulaization.py
+```
 
 
 ![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot1.png) 
