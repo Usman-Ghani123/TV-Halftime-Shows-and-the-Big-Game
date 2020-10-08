@@ -14,6 +14,12 @@ This reporistory load, clean and visualize the data of super_bowls , the muscian
 - halftime_musicians.csv
 
 
+## Usage
+
+''' bash
+$ python data visualization.py
+'''
+
 
 ![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot1.png) 
 ![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot2.png) 
