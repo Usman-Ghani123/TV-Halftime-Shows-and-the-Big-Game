@@ -16,7 +16,7 @@ This reporistory load, clean and visualize the data of super_bowls , the muscian
 
 ## Usage
 
-''' bash
+'''bash
 $ python data visualization.py
 '''
 
