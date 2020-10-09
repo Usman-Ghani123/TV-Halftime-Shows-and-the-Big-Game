@@ -26,6 +26,8 @@ In this bar graph we visualized that how nail biting matches are. We can visuali
 ![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot2.png) 
 
 i) In the first graph we visualized that with the further seasons of super bowl it became more appealing for people. With the saesons the viwers kept on increasing.
+
 ii) In the second graph we saw that for inital seasons the rating kept increasing but after that for different saesons the trend is undecided.
+
 iii) With the further seasons of suuper bowls inverstor find it a good source to invest and many advertisements were sold to the matches or it can be concluded there were many    sponsors for super bowl
 ![image](https://github.com/Usman-Ghani123/TV-Halftime-Shows-and-the-Big-Game/blob/master/plots/myplot3.png)
